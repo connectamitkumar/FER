@@ -10,3 +10,4 @@ Cannot convert value of type 'CVPixelBuffer' (aka 'CVBuffer') to expected argume
 
 https://github.com/hussien89aa/iosUdemy
 
+https://www.iosdevie.com/p/image-classifier-coreml-keras
